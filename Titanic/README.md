@@ -7,5 +7,5 @@ https://www.kaggle.com/c/titanic
 
 * **참고 자료**
 
-https://www.kaggle.com/startupsci/titanic-data-science-solutions/data <br>
-https://kaggle-kr.tistory.com/17
+1) https://www.kaggle.com/startupsci/titanic-data-science-solutions/data <br>
+2) https://kaggle-kr.tistory.com/17

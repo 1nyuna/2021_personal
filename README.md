@@ -1,1 +1,2 @@
-# kaggle 공부한 것들 정리
+- kaggle
+- review (논문리뷰)
